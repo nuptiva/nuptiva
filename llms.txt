@@ -1,0 +1,15 @@
+# Nuptiva Wedding
+
+Nuptiva Wedding is a full-service destination wedding planning and design agency based in France, founded and led by Fiona Colon (Wedding Planner & Wedding Designer). It specializes in high-end, refined, tailor-made weddings across Paris, the French Riviera, the Loire Valley, Provence, and Burgundy.
+
+## Pages
+- [Home](https://nuptivawedding.com/): Overview of Nuptiva Wedding's philosophy — elevated, memorable, fine-art, timeless weddings blending French elegance with personalized touches.
+- [About](https://nuptivawedding.com/About.dc.html): About founder Fiona Colon, her background and approach to wedding planning and design.
+- [Full-Service](https://nuptivawedding.com/FullService.dc.html): Details of the full-service planning offer — concept design, moodboards, vendor selection, budget planning, guest experience, timeline development, and full logistical coordination.
+- [Contact](https://nuptivawedding.com/Contact.dc.html): Contact form to inquire about wedding planning services.
+
+## Key facts
+- Location: France (destination weddings across Paris, French Riviera, Loire Valley, Provence, Burgundy)
+- Founder: Fiona Colon, Wedding Planner & Wedding Designer
+- Services: Full-service destination wedding planning and design
+- Positioning: High-end, refined, tailor-made weddings with French elegance and savoir-faire
